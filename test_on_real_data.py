@@ -175,7 +175,7 @@ def run_sweep_plot_experiment(path, p=5, scales=[10], missing_rate=0.0):
 
 if __name__ == "__main__":
 
-    data_path = r"C:\Users\Matys Savidan\Desktop\Student_t\real_data\data.txt"
+    data_path = r" " ###complete the path 
     
     mode = 'plot' 
     
